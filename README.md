@@ -6,6 +6,7 @@
 
 📍 Based in Scotland | Open to junior cybersecurity roles
 
+📁 This repo showcases my learning journey, writeups, and personal tools
 
 <!---
 kylesec/kylesec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
